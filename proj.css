@@ -1,0 +1,89 @@
+body{
+    background-color: rgb(221, 246, 248);
+}
+.moon{
+    border-radius: 50%;
+    margin: 20px;
+    width: 400px;
+    float: left;
+}
+#head{
+    text-align: center;
+    letter-spacing: 20px;
+    font-size: 80px;
+    padding-top: 100px ;
+}
+#head1{
+    text-align: center;
+    padding-top:none;
+    font-style: italic;
+    font-size: 50px;
+    padding-top: 0px;
+}
+.jordan{
+    margin-top: 1px;
+    margin-right: 4px;
+    float: left;
+}
+.fa{
+    width: 20px;
+    float: right;
+}
+#hr{
+    margin-right: 50px;
+}
+.nav{
+    float: left;
+    font-size: 20px;
+    color: rgb(56, 5, 5);
+    margin-left: 70px;
+    text-decoration: none;
+    border-width:5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-right: 1px solid;
+    border-left: 1px solid;
+}
+.Left{
+    float: left;
+    margin: 80px;
+    text-align: center;
+    font-size: 30px;
+}
+.Right{
+    float: right;
+    margin: 80px;
+    text-align: center;
+    font-size: 30px;
+}
+.Left1{
+    float: left;
+    margin: 45px;
+    text-align: center;
+    font-size: 30px;
+}
+#order{
+    float: left;
+    margin: 100px;
+}
+#order1{
+    float: right;
+    margin: 100px;
+    direction: rtl;
+}
+.chose{
+    float: left;
+    font-size: 30px;
+}
+.chose1{
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+    word-spacing: 2px;
+}
+#submet{
+    margin-left: 140px;
+}
+.clear{
+    clear: both;
+}
